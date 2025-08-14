@@ -1,0 +1,38 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755159670.152174,
+    "completed_at": 1755159670.525459,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1755159447.402808,
+    "completed_at": 1755159447.772122,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1755159383.136898,
+    "completed_at": 1755159383.49935,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755159537.571546,
+    "completed_at": 1755159537.977589,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
